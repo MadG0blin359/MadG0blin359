@@ -31,3 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madg0blin359&show_icons=true&locale=en" alt="madg0blin359" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madg0blin359&" alt="madg0blin359" /></p>
+
+<br>
+
+## Watch My Contributions Graph Get Eaten By The Snake 🐍
+![snake gif](https://github.com/MadG0blin359/MadG0blin359/blob/output/github-contribution-grid-snake-dark.svg)
