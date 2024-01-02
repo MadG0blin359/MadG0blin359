@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Shawaiz Shahid</h1>
-<h3 align="center">Code newbie from Pakistan, scripting my tech tale</h3>
+<h3 align="center">Code Newbie From Pakistan, Scripting My Tech Tale</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madg0blin359&label=Profile%20views&color=0e75b6&style=flat" alt="madg0blin359" /> </p>
