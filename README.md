@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **an Expense Tracker**
 
-- 🌱 I’m currently learning **C & C++ Language**
+- 🌱 I’m currently learning **Front-End Web Development**
 
 - 💬 Ask me about **Getting Started with C & C++**
 
