@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madg0blin359&label=Profile%20views&color=0e75b6&style=flat" alt="madg0blin359" /> </p>
 
-- 🔭 I’m currently working on **an Expense Tracker**
+- 🔭 I’m currently working on **Hearts Game**
 
 - 🌱 I’m currently learning **Front-End Web Development**
 
