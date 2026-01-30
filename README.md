@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shawaizshahid312@gmail.com**
 
-- 📄 Know about my experiences [https://shawaizshahid.blogspot.com/](https://shawaizshahid.blogspot.com/)
+- 📄 Know about my experiences [https://shawaiz-shahid.vercel.app/](https://shawaiz-shahid.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
