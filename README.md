@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madg0blin359&label=Profile%20views&color=0e75b6&style=flat" alt="madg0blin359" /> </p>
 
-- 🔭 I’m currently building robust backend systems, including a **Media Processing Pipeline** and a **Multi-Tenant Lead-Capture Platform**.
+- 🔭 I’m currently building fullstack systems, including a **Media Processing Pipeline** and a **Multi-Tenant Lead-Capture Platform**.
 
 - 💼 **Previously:** Backend Engineer Intern @ **Flyrank AI** (Architected high-concurrency PostgreSQL layers, $O(1)$ Redis caching, and zero-memory ingestion APIs).
 
